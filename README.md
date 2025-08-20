@@ -36,6 +36,17 @@
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=tokyonight)  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kamicode25dev-hub&layout=compact&theme=tokyonight)  
 
+## 🚀 Minhas Jornadas
+
+Aqui está o repositório onde registro meus cursos, aprendizados e evolução como desenvolvedora.  
+Clique no card abaixo para explorar minha *Learning Journey* 👇
+
+<p align="center">
+  <a href="https://github.com/kamicode25dev-hub/learning-journey" target="_blank">
+    <img src="https://img.shields.io/badge/Learning%20Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Learning Journey"/>
+  </a>
+</p>
+
 ---
 
 ## 📫 Onde me encontrar  
