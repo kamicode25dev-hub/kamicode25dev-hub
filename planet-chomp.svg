@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%" height="240" viewBox="0 0 800 240" preserveAspectRatio="xMidYMid meet">
+
+  <!-- Fundo transparente -->
+  <defs>
+    <!-- Máscara da boca: branco = visível, preto = recortado (boca) -->
+    <mask id="mouthMask">
+      <!-- base visível -->
+      <rect width="100%" height="100%" fill="black"/>
+      <circle cx="220" cy="120" r="80" fill="white"/>
+      <!-- “fatia” preta que abre/fecha (boca) -->
+      <g>
+        <path id="wedge" d="M220,120 L320,90 L320,150 Z" fill="black">
+          <!-- mastigando (abre/fecha) -->
+          <animateTransform attributeName="transform" attributeType="XML"
+                            type="rotate" dur="0.6s" repeatCount="indefinite"
+                            values="10 220 120; -16 220 120; 10 220 120"/>
+        </path>
+      </g>
+    </mask>
+
+    <!-- brilho suave -->
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0.8"/>
+    </filter>
+
+    <!-- gradiente do planeta grande (roxinho 👑) -->
+    <radialGradient id="planetGrad" cx="35%" cy="35%" r="70%">
+      <stop offset="0%"  stop-color="#e9d5ff"/>
+      <stop offset="45%" stop-color="#c4b5fd"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Planeta grande com máscara da boca -->
+  <g filter="url(#soft)">
+    <circle cx="220" cy="120" r="80" fill="url(#planetGrad)" mask="url(#mouthMask)"/>
+    <!-- anel sutil -->
+    <ellipse cx="220" cy="120" rx="115" ry="30" fill="none" stroke="#a78bfa" stroke-opacity="0.4" stroke-width="3">
+      <animate attributeName="stroke-opacity" values="0.25;0.5;0.25" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Função “planetinha” via símbolos reutilizáveis -->
+  <g id="smallPlanet1">
+    <circle r="8" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="1"/>
+  </g>
+  <g id="smallPlanet2">
+    <circle r="10" fill="#ffffff" stroke="#a78bfa" stroke-width="1.2"/>
+  </g>
+  <g id="smallPlanet3">
+    <circle r="6" fill="#e9d5ff" stroke="#6d28d9" stroke-width="1"/>
+  </g>
+
+  <!-- Trajetórias dos planetinhas (linhas invisíveis, só pra referência se quiser trocar por animateMotion) -->
+  <!-- Vamos animar por cx/cy pra garantir compatibilidade no README do GitHub -->
+  <!-- Cada “instância” abaixo tem tempos/durações diferentes pra parecer aleatório -->
+
+  <!-- Linha 1 -->
+  <g>
+    <use href="#smallPlanet1" x="800" y="70" id="p1">
+      <animate attributeName="x" from="800" to="235" dur="3.8s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="70;66;70" dur="1.6s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="3.8s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="transform" attributeType="XML" type="scale" values="1;0.6" dur="3.8s" begin="0.2s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#smallPlanet2" x="800" y="95" id="p2">
+      <animate attributeName="x" from="800" to="235" dur="4.6s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="95;100;95" dur="1.9s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.87;1" dur="4.6s" begin="0.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="1;0.5" dur="4.6s" begin="0.8s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#smallPlanet3" x="800" y="120" id="p3">
+      <animate attributeName="x" from="800" to="235" dur="3.2s" begin="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="120;118;120" dur="1.4s" begin="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.84;1" dur="3.2s" begin="1.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="1;0.4" dur="3.2s" begin="1.4s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- Linha 2 (um pouco mais baixa) -->
+  <g>
+    <use href="#smallPlanet2" x="800" y="150" id="p4">
+      <animate attributeName="x" from="800" to="240" dur="4.0s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="150;146;150" dur="1.7s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.88;1" dur="4.0s" begin="0.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="1;0.55" dur="4.0s" begin="0.5s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#smallPlanet1" x="800" y="175" id="p5">
+      <animate attributeName="x" from="800" to="240" dur="3.5s" begin="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="175;178;175" dur="1.5s" begin="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="3.5s" begin="1.1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="1;0.45" dur="3.5s" begin="1.1s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- Linha 3 (mais alta) -->
+  <g>
+    <use href="#smallPlanet3" x="800" y="40" id="p6">
+      <animate attributeName="x" from="800" to="235" dur="3.9s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="40;43;40" dur="1.6s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.86;1" dur="3.9s" begin="0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="1;0.5" dur="3.9s" begin="0s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#smallPlanet2" x="800" y="20" id="p7">
+      <animate attributeName="x" from="800" to="235" dur="4.8s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="20;18;20" dur="1.8s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" dur="4.8s" begin="1.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="1;0.6" dur="4.8s" begin="1.2s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- “pós-efeito” de brilho quando engole (pequeno flash perto da boca) -->
+  <circle cx="240" cy="120" r="6" fill="#ffffff" opacity="0">
+    <animate attributeName="opacity" values="0;0.5;0" dur="0.35s" begin="0.2s;0.8s;1.4s;2.0s;2.6s;3.2s;3.8s;4.4s;5.0s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="6;10;6" dur="0.35s" begin="0.2s;0.8s;1.4s;2.0s;2.6s;3.2s;3.8s;4.4s;5.0s" repeatCount="indefinite"/>
+  </circle>
+</svg>
