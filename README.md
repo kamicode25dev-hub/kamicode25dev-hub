@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.svg" alt="Kami Code — Back-end Developer" />
+</p>
+
 # 🚀✨ Olá, eu sou a Kami Code  
 
 💻 Desenvolvedora *Back-end Júnior* | 🎓 Futura estudante de Engenharia de Software  
