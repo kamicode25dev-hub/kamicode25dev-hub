@@ -81,3 +81,5 @@ Clique no card abaixo para explorar minha *Learning Journey* 👇
 ---
 
 ⭐ Feito com 💜 e muito ☕ por *Kami Code*
+
+<img src="./planet-chomp.svg" alt="Kami Code devora planetinhas" width="100%">
