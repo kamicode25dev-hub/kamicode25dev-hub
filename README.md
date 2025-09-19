@@ -63,7 +63,11 @@
 Here I keep track of my courses, learnings, and growth as a developer.  
 Click the card below to explore my **Learning Journey** 👇  
 
-[![Learning Journey](https://img.shields.io/badge/Learning%20Journey-6C63FF?style=for-the-badge&logo=github)](#)  
+<p align="center">
+  <a href="https://github.com/kamicode25dev-hub/learning-journey" target="_blank">
+    <img src="https://img.shields.io/badge/Learning%20Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Learning Journey"/>
+  </a>
+</p>  
 
 ---
 
