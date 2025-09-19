@@ -1,3 +1,8 @@
+🌐 Disponível em:  
+[![Português](https://img.shields.io/badge/Idioma-Português-green?style=for-the-badge)](README.pt-BR.md)
+[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
+
+
 <!-- Banner -->
 <p align="center">
   <img src="./banner.svg" alt="Kami Code — Back-end Developer" />
