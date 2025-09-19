@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="./banner.svg" alt="Kami Code — Back-end Developer" />
+</p>
+
 # 👋 Hi, I’m *Kami Code*
 
 🚀 Junior Back-end Developer • Creator of the **KamiFlow** project  
