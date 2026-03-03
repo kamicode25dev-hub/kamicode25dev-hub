@@ -1,6 +1,6 @@
 🌐 Disponível em:  
 [![Português](https://img.shields.io/badge/Idioma-Português-8B5CF6?style=for-the-badge&labelColor=0B0B15)](README.pt-BR.md)
-[![English](https://img.shields.io/badge/Language-English-6C2BD9?style=for-the-badge&labelColor=0B0B15)](README.md)
+[![English](https://img.shields.io/badge/Language-English-6C2BD9?style=for-the-badge&labelColor=0B0B15)](README.en.md)
 
 
 <!-- Banner -->
