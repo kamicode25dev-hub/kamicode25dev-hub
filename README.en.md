@@ -20,7 +20,7 @@
 - 🤖 Creator of the **KamiFlow** project (personal automation bot with Python + API)  
 - 🎓 Computer Science Student | Focused on Software Development and Technology  
 - 🌍 Languages: Portuguese (native) • English (B1) • Spanish (B1)  
-- 💡 Goal: to land my **first Junior Developer position** in tech  
+- 💡 Goal: Seeking my first opportunity as a Junior Software Developer or Technology Intern.  
 
 ---
 
