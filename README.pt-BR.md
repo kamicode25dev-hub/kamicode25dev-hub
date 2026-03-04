@@ -53,23 +53,29 @@
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-<h1 align="center">Estatísticas</h1>
+<h1 align="center">✦ Estatísticas de Desenvolvimento ✦</h1>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" 
-    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamicode25dev-hub&layout=compact&theme=transparent&hide_border=true" 
-    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamicode25dev-hub&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kamicode25dev-hub&theme=transparent&hide_border=true" 
-    height="160"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kamicode25dev-hub&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=kamicode25dev-hub&theme=algolia&no-frame=true&row=1&column=6" 
   />
 </p>
 
