@@ -53,7 +53,7 @@
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-<h2 align="center">✦ GitHub Analytics ✦</h2>
+<h2 align="center">✦ Análises do GitHub ✦</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
