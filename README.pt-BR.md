@@ -53,29 +53,29 @@
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-<h1 align="center">📊 Painel Profissional</h1>
+<h1 align="center">⚡ GitHub Stats</h1>
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamicode25dev-hub&theme=github_dark" 
-    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamicode25dev-hub&theme=blueberry" 
+    height="200"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamicode25dev-hub&theme=github_dark" 
-    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamicode25dev-hub&theme=blueberry" 
+    height="200"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" 
     height="180"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=kamicode25dev-hub&theme=darkhub&no-frame=true&margin-w=12&row=1&column=6" 
+    src="https://github-profile-trophy.vercel.app/?username=kamicode25dev-hub&theme=algolia&no-frame=true&margin-w=15&row=1&column=6" 
   />
 </p>
 
