@@ -20,7 +20,7 @@
 - 🎯 Foco em *Back-end (Python, Node.js, SQL)*  
 - 📚 Estudando: *APIs com NestJS, *Clean Code, Soft Skills para Devs  
 - 🤖 Criadora do projeto *KamiFlow* (bot de automação pessoal com Python + API)  
-- 🎓 Futura estudante de Engenharia de Software  
+- 🎓 Estudante de Ciência da Computação | Foco em desenvolvimento e tecnologia 
 - 🌍 Idiomas: *Português (nativo)* • *Inglês (B1)* • *Espanhol (B1)*  
 - 💡 Objetivo: *conquistar minha primeira vaga júnior em tecnologia*
 
