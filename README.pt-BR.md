@@ -53,32 +53,20 @@
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-<h1 align="center">✦ Desempenho no GitHub ✦</h1>
+<h1 align="center">📊 Painel de Desempenho</h1>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff&include_all_commits=true&count_private=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamicode25dev-hub&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=ffffff" 
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamicode25dev-hub&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamicode25dev-hub&theme=github_dark" height="180"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kamicode25dev-hub&theme=radical&hide_border=true&background=0d1117&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc" 
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamicode25dev-hub&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=kamicode25dev-hub&theme=radical&no-frame=true&margin-w=8&row=1&column=6" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=kamicode25dev-hub&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6"/>
 </p>
-
 
 ---
 
