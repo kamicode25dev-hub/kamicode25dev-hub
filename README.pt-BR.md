@@ -22,7 +22,7 @@
 - 🤖 Criadora do projeto *KamiFlow* (bot de automação pessoal com Python + API)  
 - 🎓 Estudante de Ciência da Computação | Foco em desenvolvimento e tecnologia 
 - 🌍 Idiomas: *Português (nativo)* • *Inglês (B1)* • *Espanhol (B1)*  
-- 💡 Objetivo:Em busca da minha primeira oportunidade como Desenvolvedora Júnior ou Estagiária em tecnologia.
+- 💡 Objetivo: Em busca da minha primeira oportunidade como Desenvolvedora Júnior ou Estagiária em tecnologia.
 
 ---
 
