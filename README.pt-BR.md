@@ -56,18 +56,19 @@
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamicode25dev-hub&layout=compact&langs_count=6&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamicode25dev-hub&layout=compact&langs_count=8&theme=tokyonight&border_radius=15"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamicode25dev-hub&theme=tokyonight"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamicode25dev-hub&theme=tokyonight&border_radius=15"/>
 
 </div>
-
 
 ---
 
