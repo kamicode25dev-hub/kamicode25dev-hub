@@ -54,33 +54,6 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamicode25dev-hub&layout=compact&langs_count=8&theme=tokyonight&border_radius=20"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamicode25dev-hub&theme=tokyonight&border_radius=20"/>
-
-</div>
-
----
-
-# 💻 Languages & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,git,linux,vscode"/>
-
-</div>
-
-
 ---
 
 ## 🌍 Onde me encontrar
