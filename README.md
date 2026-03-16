@@ -78,7 +78,7 @@ Clique no card abaixo para explorar minha *Learning Journey* 👇
 
 <p align="center">
   <a href="https://github.com/kamicode25dev-hub/learning-journey" target="_blank">
-    <img src="https://img.shields.io/badge/Learning%20Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white"  width="200" alt="Learning Journey"/>
+    <img src="https://img.shields.io/badge/Learning%20Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white"  width="300" alt="Learning Journey"/>
   </a>
 </p>
 
