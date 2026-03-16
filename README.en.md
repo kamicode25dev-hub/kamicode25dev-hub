@@ -51,8 +51,8 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=aura" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamicode25dev-hub&layout=compact&theme=radical" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kamicode25dev-hub&show_icons=true&theme=midnight-purple" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamicode25dev-hub&layout=compact&theme=midnight-purple" height="250"/>
 </p> 
 
 ---
