@@ -9,7 +9,7 @@
 
 # 👋 Hi, I’m *Kami Code*
 
-🚀 Junior Back-end Developer • Creator of the **KamiFlow** project  
+🚀 Junior Back-end Developer • 
 💜 Turning logic into creative solutions!  
 
 ---
