@@ -7,7 +7,7 @@
   <img src="./banner.svg" alt="Kami Code — Back-end Developer" />
 </p>
 
-# 👋 Hi, I’m *Kami Code*
+# 👋 Hi, I'm Camila Tomazini Dutra (Kami Code).
 
 🚀 Junior Back-end Developer • 
 💜 Turning logic into creative solutions!  
