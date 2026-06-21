@@ -11,7 +11,7 @@
 
 ---
 
-# 👋 Olá, eu sou a Camila Tomazini Dutra *Kami Code*.  
+# 👋 Olá, eu sou a Camila Tomazini Dutra (*Kami Code*).  
 🚀 Desenvolvedora *Back-end Júnior* •  
 💜 Transformando lógica em soluções criativas!
 
