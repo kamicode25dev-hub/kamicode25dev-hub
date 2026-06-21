@@ -42,15 +42,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🔹 [KamiFlow](https://github.com/kamicode25dev-hub/kamiflow)  
-> 🤖 Bot de automação pessoal desenvolvido em *Python + API*.  
-> 💜 Projeto com foco em produtividade e personalização.  
-
-![Preview do Projeto](https://via.placeholder.com/600x250.png?text=Print+do+Projeto+Aqui)
-
----
 
 ## 📊 Minhas Estatísticas no GitHub
 <p align="center">
