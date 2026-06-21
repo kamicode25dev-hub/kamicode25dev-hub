@@ -21,7 +21,7 @@
 - 🤖 Criadora do KamiFlow — assistente pessoal desenvolvido com Python, APIs e memória contextual, com personalidade própria.
 - 🎓 Estudante de Ciência da Computação | Foco em desenvolvimento e tecnologia 
 - 🌍 Idiomas: *Português (nativo)* • *Inglês (B1)* • *Espanhol (B1)*  
-- 💡 Objetivos: Transformar ideias em soluções Back-end com Python e tecnologia.
+- 💡 Objetivo: Desenvolver soluções Back-end com Python, transformando desafios em tecnologia e inovação.
 ---
 
 ## 🛠 Tecnologias & Ferramentas
