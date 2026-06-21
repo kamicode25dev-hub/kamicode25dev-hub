@@ -40,14 +40,6 @@
 
 ---
 
-## 🚀 Featured Project
-### [KamiFlow](#)  
-🤖 Personal automation bot built with **Python + API**  
-💜 Focused on productivity and customization  
-
-📌 [Preview the Project](#)  
-
----
 
 ## 📊 My GitHub Stats
 <p align="center">
