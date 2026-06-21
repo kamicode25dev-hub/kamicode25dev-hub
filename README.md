@@ -11,7 +11,7 @@
 ---
 
 # 👋 Olá, eu sou a *Kami Code*  
-🚀 Desenvolvedora *Back-end Júnior* • Criadora do projeto *KamiFlow*  
+🚀 Desenvolvedora *Back-end Júnior* •  
 💜 Transformando lógica em soluções criativas!
 
 ---
