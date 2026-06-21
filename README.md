@@ -16,12 +16,12 @@
 ---
 
 ## ✨ Sobre mim
-- 🎯 Foco em *Back-end (Python, Node.js, SQL)*  
-- 📚 Estudando: *APIs com NestJS, *Clean Code, Soft Skills para Devs   
+- 🎯 Back-end Developer | Python • FastAPI • Django • SQL  
+- 📚 Atualmente estudando: NestJS • Clean Code • APIs REST • Engenharia de Software   
+- 🤖 Criadora do KamiFlow — assistente pessoal desenvolvido com Python, APIs e memória contextual, com personalidade própria e foco em automação.
 - 🎓 Estudante de Ciência da Computação | Foco em desenvolvimento e tecnologia 
 - 🌍 Idiomas: *Português (nativo)* • *Inglês (B1)* • *Espanhol (B1)*  
-- 💡 Objetivo: Em busca da minha primeira oportunidade como Desenvolvedora Júnior ou Estagiária em tecnologia.
-
+- 💡 Objetivos: Transformar ideias em soluções Back-end com Python e tecnologia.
 ---
 
 ## 🛠 Tecnologias & Ferramentas
