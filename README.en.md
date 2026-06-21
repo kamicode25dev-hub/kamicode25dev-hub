@@ -16,8 +16,7 @@
 
 ## ✨ About Me
 - 🎯 Focus on Back-end *(Python, Node.js, SQL)*  
-- 📚 Currently learning: *NestJS APIs, Clean Code, Soft Skills for Devs*  
-- 🤖 Creator of the **KamiFlow** project (personal automation bot with Python + API)  
+- 📚 Currently learning: *NestJS APIs, Clean Code, Soft Skills for Devs*   
 - 🎓 Computer Science Student | Focused on Software Development and Technology  
 - 🌍 Languages: Portuguese (native) • English (B1) • Spanish (B1)  
 - 💡 Goal: Seeking my first opportunity as a Junior Software Developer or Technology Intern.  
