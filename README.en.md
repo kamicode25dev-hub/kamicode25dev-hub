@@ -54,10 +54,10 @@
 ## 🌍 Where to Find Me
 <p align="left">
   <a href="https://www.linkedin.com/in/kamicode" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px !important; width: auto;" />
   </a>
   <a href="mailto:kamicode25.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 35px !important; width: auto;" />
   </a>
 </p> 
 
