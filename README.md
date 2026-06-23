@@ -11,18 +11,18 @@
 ---
 
 # 👋 Olá, eu sou a Camila Tomazini Dutra (*Kami Code*).  
-🚀 Desenvolvedora *Back-end Júnior* • 💜 Transformando lógica em soluções criativas!
+#### 🚀 Desenvolvedora *Back-end Júnior* • 💜 Transformando lógica em soluções criativas!
 
 ---
 
 ## ✨ Sobre mim
 
-- 🎯 Back-end Developer | Python • FastAPI • Django • SQL  
-- 📚 Atualmente estudando: NestJS • Clean Code • APIs REST • Engenharia de Software   
-- 🤖 Criadora do KamiFlow — assistente pessoal desenvolvido com Python, APIs e memória contextual, com personalidade própria.
-- 🎓 Estudante de Ciência da Computação | Foco em desenvolvimento e tecnologia 
-- 🌍 Idiomas: *Português (nativo)* • *Inglês (B1)* • *Espanhol (B1)*  
-- 💡 Objetivo: Desenvolver soluções Back-end com Python, transformando desafios em tecnologia e inovação.
+#### - 🎯 Back-end Developer | Python • FastAPI • Django • SQL  
+#### - 📚 Atualmente estudando: NestJS • Clean Code • APIs REST • Engenharia de Software   
+#### - 🤖 Criadora do KamiFlow — assistente pessoal desenvolvido com Python, APIs e memória contextual, com personalidade própria.
+#### - 🎓 Estudante de Ciência da Computação | Foco em desenvolvimento e tecnologia 
+#### - 🌍 Idiomas: *Português (nativo)* • *Inglês (B1)* • *Espanhol (B1)*  
+#### - 💡 Objetivo: Desenvolver soluções Back-end com Python, transformando desafios em tecnologia e inovação.
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## 🚀 Minhas Jornadas
 
-Aqui está o repositório onde registro meus cursos, aprendizados e evolução como desenvolvedora.  
+#### Aqui está o repositório onde registro meus cursos, aprendizados e evolução como desenvolvedora.  
 Clique no card abaixo para explorar minha *Learning Journey* 👇
 
 <p align="center">
@@ -77,6 +77,6 @@ Clique no card abaixo para explorar minha *Learning Journey* 👇
 
 ---
 
-⭐ Feito com 💜 e muito ☕ por *Kami Code*
+## ⭐ Feito com 💜 e muito ☕ por *Kami Code*
 
 <img src="./planet-chomp.svg" alt="Kami Code devora planetinhas" width="100%">
