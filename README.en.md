@@ -74,7 +74,7 @@ Click the card below to explore my **Learning Journey** 👇
 
 ---
 
-# ⭐ Made with 💜 and a lot of ☕ by **Kami Code**
+## ⭐ Made with 💜 and a lot of ☕ by **Kami Code**
 
 <img src="./planet-chomp.svg" alt="Kami Code devora planetinhas" width="100%">
                                                                                                                                                               
