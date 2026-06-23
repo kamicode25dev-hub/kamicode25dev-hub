@@ -9,19 +9,18 @@
 
 # 👋 Hi, I'm Camila Tomazini Dutra (Kami Code).
 
-🚀 Junior Back-end Developer • 
-💜 Turning logic into creative solutions!  
+#### 🚀 Junior Back-end Developer • 💜 Turning logic into creative solutions!  
 
 ---
 
 ## ✨ About Me
 
-- 🎯 Back-End Developer | Python • FastAPI • Django • SQL
-- 📚 Currently studying: NestJS • Clean Code • REST APIs • Software Engineering
-- 🤖 Creator of KamiFlow — a Python-based personal assistant with APIs, contextual memory, and a unique personality.
-- 🎓 Computer Science Student passionate about software development and technology.
-- 🌍 Languages: Portuguese (Native) • English (B1) • Spanish (B1)
-- 💡 Goal: To build impactful Back-End solutions with Python, transforming challenges into innovative technology.
+#### - 🎯 Back-End Developer | Python • FastAPI • Django • SQL
+#### - 📚 Currently studying: NestJS • Clean Code • REST APIs • Software Engineering
+#### - 🤖 Creator of KamiFlow — a Python-based personal assistant with APIs, contextual memory, and a unique personality.
+#### - 🎓 Computer Science Student passionate about software development and technology.
+#### - 🌍 Languages: Portuguese (Native) • English (B1) • Spanish (B1)
+#### - 💡 Goal: To build impactful Back-End solutions with Python, transforming challenges into innovative technology.
 
 ---
 
@@ -64,7 +63,7 @@
 ---
 
 ## 🚀 My Journeys
-Here I keep track of my courses, learnings, and growth as a developer.  
+#### Here I keep track of my courses, learnings, and growth as a developer.  
 Click the card below to explore my **Learning Journey** 👇  
 
 <p align="center">
@@ -75,7 +74,7 @@ Click the card below to explore my **Learning Journey** 👇
 
 ---
 
-⭐ Made with 💜 and a lot of ☕ by **Kami Code**
+# ⭐ Made with 💜 and a lot of ☕ by **Kami Code**
 
 <img src="./planet-chomp.svg" alt="Kami Code devora planetinhas" width="100%">
                                                                                                                                                               
